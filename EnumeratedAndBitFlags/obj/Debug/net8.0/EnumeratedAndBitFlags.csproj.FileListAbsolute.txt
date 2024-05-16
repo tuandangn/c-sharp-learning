@@ -1,0 +1,14 @@
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\bin\Debug\net8.0\EnumeratedAndBitFlags.exe
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\bin\Debug\net8.0\EnumeratedAndBitFlags.deps.json
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\bin\Debug\net8.0\EnumeratedAndBitFlags.runtimeconfig.json
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\bin\Debug\net8.0\EnumeratedAndBitFlags.dll
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\bin\Debug\net8.0\EnumeratedAndBitFlags.pdb
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\obj\Debug\net8.0\EnumeratedAndBitFlags.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\obj\Debug\net8.0\EnumeratedAndBitFlags.AssemblyInfoInputs.cache
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\obj\Debug\net8.0\EnumeratedAndBitFlags.AssemblyInfo.cs
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\obj\Debug\net8.0\EnumeratedAndBitFlags.csproj.CoreCompileInputs.cache
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\obj\Debug\net8.0\EnumeratedAndBitFlags.dll
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\obj\Debug\net8.0\refint\EnumeratedAndBitFlags.dll
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\obj\Debug\net8.0\EnumeratedAndBitFlags.pdb
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\obj\Debug\net8.0\EnumeratedAndBitFlags.genruntimeconfig.cache
+D:\Learning\Reading\CLRviaCSharp\c-sharp-learning\EnumeratedAndBitFlags\obj\Debug\net8.0\ref\EnumeratedAndBitFlags.dll
